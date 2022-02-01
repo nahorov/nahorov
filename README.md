@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahorov&label=Profile%20views&color=0e75b6&style=flat" alt="nahorov" /> </p>
 
-- 🌱 I’m currently learning **Docker, Kubernetes, and PowerShell**
+- 🌱 I’m currently learning **Docker, Active Directory, and Perl**
 
 - 💬 Ask me about **Linux, Linux Distros, OracleVM VirtualBox, Software Installation, networking and troubleshooting.**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rohan-puranik-a803251b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-puranik-a803251b3" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohan-puranik-401bb622a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-puranik-401bb622a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
