@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Linux, Linux Distros, OracleVM VirtualBox, Software Installation, networking and troubleshooting.**
 
-- 📫 How to reach me **rohanpuranik1996@gmail.com**
+- 📫 Reach me at **rohanpuranik1996@gmail.com**
 
 - ⚡ Fun fact **I like memes, learning new languages, and DIY**
 
