@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahorov&label=Profile%20views&color=0e75b6&style=flat" alt="nahorov" /> </p>
 
-- 🌱 I’m currently learning **Docker, Active Directory, and Perl**
+- 🌱 I’m currently learning **Docker, Ansible, and Perl**
 
 - 💬 Ask me about **Linux, Linux Distros, OracleVM VirtualBox, Software Installation, networking and troubleshooting.**
 
